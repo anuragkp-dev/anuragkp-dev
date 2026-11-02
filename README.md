@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:123B70,100:00C2FF&height=220&section=header&text=ANURAG%20K%20P&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Developer&descAlignY=60&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:123B70,100:00C2FF&height=220&section=header&text=ANURAG%20K%20P&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20and%20Data%20Science%20Student%20%7C%20Developer&descAlignY=60&descSize=17" width="100%" />
 
 # Hey, I'm Anurag K P 👋
 
@@ -32,19 +32,19 @@
 
 ### Programming Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql,dart" alt="Programming languages" />
 </p>
 
 ### Development & Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,firebase,html,css,js,git,github,vscode,mysql" alt="Development tools" />
 </p>
 
 ### Data & Learning
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=numpy,pandas,anaconda" alt="Data science tools" />
 </p>
 
