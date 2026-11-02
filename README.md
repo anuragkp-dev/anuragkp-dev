@@ -72,7 +72,7 @@
 
 </div>
 
-GitHub's native contribution calendar is displayed automatically on your profile. External statistics cards have been removed to avoid broken-image errors.
+GitHub's native contribution calendar is displayed automatically on your profile. External statistics cards and contribution graph embeds are intentionally omitted to avoid broken-resource errors.
 
 ---
 
