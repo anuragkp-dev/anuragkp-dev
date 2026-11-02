@@ -28,6 +28,8 @@
 
 ---
 
+<div align="center">
+
 ## `02` / Tech Stack
 
 ### Programming Languages
@@ -39,14 +41,16 @@
 ### Development & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,html,css,js,git,github,vscode,mysql" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,html,css,js,git,github,vscode,mysql,postman" alt="Development tools" />
 </p>
 
-### Data & Learning
+### Data Science & Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,anaconda" alt="Data science tools" />
+  <img src="https://skillicons.dev/icons?i=anaconda,sklearn,tensorflow,pytorch,r" alt="Data science and machine learning tools" />
 </p>
+
+</div>
 
 ---
 
