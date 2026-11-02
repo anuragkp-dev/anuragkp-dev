@@ -35,7 +35,7 @@
 ### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql,dart" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart" alt="Programming languages" />
 </p>
 
 ### Development & Tools
@@ -54,15 +54,19 @@
 
 ---
 
+<div align="center">
+
 ## `03` / What I'm Focused On
 
 | Area | Current focus |
-|:--|:--|
-| App Development | Building cross-platform apps with Flutter |
-| Programming | Strengthening Python, C, C++ and Java |
-| Data Science | Learning data analysis and preprocessing |
-| Backend & Cloud | Exploring Firebase and database integration |
-| Problem Solving | Practising programming and building projects |
+|:---:|:---:|
+| **App Development** | Building cross-platform apps with Flutter |
+| **Programming** | Strengthening Python, C, C++ and Java |
+| **Data Science** | Learning data analysis and preprocessing |
+| **Backend & Cloud** | Exploring Firebase and database integration |
+| **Problem Solving** | Practising programming and building projects |
+
+</div>
 
 ---
 
