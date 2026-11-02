@@ -9,6 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Python+%7C+C%2B%2B+%7C+Java;Flutter+App+Developer;Always+learning+something+new" alt="Typing animation" />
 
 <p>
+  <a href="https://anuragkp-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/anuragkp-dev"><img src="https://img.shields.io/badge/GitHub-anuragkp--dev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/anurag-k-p-70a3873b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:anuragkaruthodi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -25,6 +26,7 @@
 - 🌱 Currently improving my skills in Flutter, programming and data science.
 - 🎯 Working towards becoming a skilled software engineer.
 - 📍 Kerala, India.
+- 🚀 My portfolio — projects, skills and experience — is live at **[anuragkp-portfolio.netlify.app](https://anuragkp-portfolio.netlify.app/)**.
 
 ---
 
@@ -95,6 +97,7 @@
 
 <div align="center">
 
+<a href="https://anuragkp-portfolio.netlify.app/">Portfolio</a> •
 <a href="https://github.com/anuragkp-dev">GitHub</a> •
 <a href="https://www.linkedin.com/in/anurag-k-p-70a3873b5/">LinkedIn</a> •
 <a href="https://www.instagram.com/ig_anuragkp/">Instagram</a> •
