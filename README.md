@@ -74,21 +74,11 @@
 
 <div align="center">
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragkp-dev/anuragkp-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragkp-dev/anuragkp-dev/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/anuragkp-dev/anuragkp-dev/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-<br/><br/>
-
 <a href="https://github.com/anuragkp-dev">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anuragkp-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=E6EDF3&rank_icon=github" alt="Anurag's GitHub statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=anuragkp-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=E6EDF3&rank_icon=github" alt="Anurag's GitHub statistics" />
 </a>
 <a href="https://github.com/anuragkp-dev">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragkp-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=E6EDF3" alt="Most used languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=anuragkp-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=E6EDF3" alt="Most used languages" />
 </a>
 
 <br/><br/>
@@ -97,15 +87,7 @@
 <img width="85%" src="https://streak-stats.demolab.com?user=anuragkp-dev&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=E6EDF3&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/anuragkp-dev">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=anuragkp-dev&bg_color=0D1117&color=E6EDF3&line=00C2FF&point=00C2FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
-</a>
-
 </div>
-
-> If a statistics image does not load, it is usually a temporary issue with the third-party image service. Your GitHub profile's own contribution calendar is displayed separately by GitHub.
 
 ---
 
